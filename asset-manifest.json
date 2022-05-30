@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/KONOO/static/css/main.0e879a10.css",
+    "main.js": "/KONOO/static/js/main.ccb784c1.js",
+    "static/js/787.22cf53f4.chunk.js": "/KONOO/static/js/787.22cf53f4.chunk.js",
+    "static/media/bg.jpg": "/KONOO/static/media/bg.b107b2aac4ebc7dec8af.jpg",
+    "static/media/card.png": "/KONOO/static/media/card.42fca920fd51585fc424.png",
+    "static/media/footerLogo.svg": "/KONOO/static/media/footerLogo.1588ae4cd528e413064a4b6e62f1fe2f.svg",
+    "static/media/logo.svg": "/KONOO/static/media/logo.c10a1196c71d32e97eb62ff8babbcdd5.svg",
+    "static/media/instagram.svg": "/KONOO/static/media/instagram.b4012e518a2614e37de0438baeb61210.svg",
+    "static/media/calendarCheck.svg": "/KONOO/static/media/calendarCheck.0fda1fb5afa22e652061841ccc340da6.svg",
+    "static/media/slick.svg": "/KONOO/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/KONOO/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/KONOO/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/whatsapp.svg": "/KONOO/static/media/whatsapp.2197404b82f584f7e85098f3ab093da1.svg",
+    "static/media/search_btn.svg": "/KONOO/static/media/search_btn.e2666a2b7da1587eeaf64d678e60e807.svg",
+    "static/media/telegram.svg": "/KONOO/static/media/telegram.0928fde27a1cc8a3d411de946322b9ab.svg",
+    "static/media/slick.woff": "/KONOO/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/wifi.svg": "/KONOO/static/media/wifi.e1a3e8f5d3a23407e882ae3e1c6e6075.svg",
+    "static/media/when.svg": "/KONOO/static/media/when.f6d7dcf5db0e02760ca8251bd83482f1.svg",
+    "static/media/ModalGoogle.svg": "/KONOO/static/media/ModalGoogle.1b300baa569572a5997931f1f2cccadb.svg",
+    "static/media/ModalApple.svg": "/KONOO/static/media/ModalApple.bcd7fcdeaa1c1882f272e5e05db768b8.svg",
+    "static/media/location.svg": "/KONOO/static/media/location.05776e664bfa734562bd6f3ce56772c2.svg",
+    "static/media/modalFacebook.svg": "/KONOO/static/media/modalFacebook.bc122dbf0095765aaa4721b04b06c02e.svg",
+    "static/media/kitchen.svg": "/KONOO/static/media/kitchen.64ac3ea72107edf3d6f23cd5ca6a1437.svg",
+    "index.html": "/KONOO/index.html",
+    "static/media/quantity.svg": "/KONOO/static/media/quantity.a8c8723f1d4dd1c9e51d97d7fa51e34e.svg",
+    "static/media/aircon.svg": "/KONOO/static/media/aircon.4eee8116c5caebd1f90c4549184b7bb3.svg",
+    "static/media/washingmachine.svg": "/KONOO/static/media/washingmachine.9b6df17689dea317606e44dc3fb89e8a.svg",
+    "static/media/facebook.svg": "/KONOO/static/media/facebook.7910b4233f39bf6edafc470dea69477c.svg",
+    "static/media/medicine.svg": "/KONOO/static/media/medicine.6f23b88a53c1d7bc0700d48f34d8acc5.svg",
+    "static/media/close.svg": "/KONOO/static/media/close.643dda150cc558fea413befb34f4c7e2.svg",
+    "static/media/tv.svg": "/KONOO/static/media/tv.08b45c16816f3aa0868f596b7d6d556d.svg",
+    "main.0e879a10.css.map": "/KONOO/static/css/main.0e879a10.css.map",
+    "main.ccb784c1.js.map": "/KONOO/static/js/main.ccb784c1.js.map",
+    "787.22cf53f4.chunk.js.map": "/KONOO/static/js/787.22cf53f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e879a10.css",
+    "static/js/main.ccb784c1.js"
+  ]
+}
